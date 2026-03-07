@@ -27,4 +27,4 @@ To monitor key ER performance metrics and identify operational insights for bett
 - Department-wise Referrals
 
 ## Dashboard Preview
-Dashboard image: https://github.com/nencypurohit21/hospital-er-data-analysis/tree/main/images
+![Hospital Emergency Room Dashboard](image/Dashboard.png)
